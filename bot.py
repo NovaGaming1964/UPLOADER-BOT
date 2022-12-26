@@ -13,7 +13,6 @@ import os
 # the secret configuration specific things
 from sample_config import Config
 
-
 from pyrogram import Client as Clinton
 from pyrogram import filters
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
